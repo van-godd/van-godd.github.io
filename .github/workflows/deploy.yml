@@ -27,6 +27,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: './dist'
+      - name: List files  
+        run: ls -la 
 
   deploy:
     needs: build
