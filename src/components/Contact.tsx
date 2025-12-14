@@ -54,7 +54,7 @@ export function Contact() {
                 <div className="flex items-center gap-4 border-2 border-white p-4">
                   <Linkedin className="w-6 h-6 flex-shrink-0" />
                   <a 
-                    href="https://linkedin.com/in/vangodd" 
+                    href="https://www.linkedin.com/in/natalia-cygan-b727b7280/" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-lg hover:text-red-500 transition-colors"
